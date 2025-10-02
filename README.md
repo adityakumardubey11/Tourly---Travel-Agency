@@ -1,31 +1,37 @@
-````markdown
-# 🌴✨ Tourly – Explore the World with Ease 🌎✈️  
+# 🌴✨ Tourly – Explore the World with Ease 🌎✈️
 
-[![Live Demo](https://img.shields.io/badge/🌐%20Live-Demo-blueviolet?style=for-the-badge)](https://jocular-bubblegum-86dd0a.netlify.app/)  
-[![GitHub Repo](https://img.shields.io/badge/💻%20GitHub-Repository-green?style=for-the-badge&logo=github)](https://github.com/adityakumardubey11/Tourly---Travel-Agency)  
+<div align="center">
 
-*"Travel is the only thing you buy that makes you richer."* 🌟  
+[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-blueviolet?style=for-the-badge)](https://jocular-bubblegum-86dd0a.netlify.app/)  
+[![GitHub Repo](https://img.shields.io/badge/💻%20GitHub%20Repository-green?style=for-the-badge&logo=github)](https://github.com/adityakumardubey11/Tourly---Travel-Agency)
 
-Tourly is a **modern travel agency website** that turns your dream trips into reality 🌍💼. From exploring breathtaking destinations to booking in seconds, everything is smooth, elegant, and made for wanderlust souls ❤️.  
+</div>
 
 ---
 
-## 🎇✨ Features That Will Make You Pack Your Bags  
+> *"Travel is the only thing you buy that makes you richer."* 🌟  
 
-- 🏖 **Curated Travel Packages** – From budget to luxury 🌆  
-- 📝 **Interactive Booking Form** – Hassle-free trip planning ⛷️  
-- 🌆 **Destination Highlights** – Cities, beaches, mountains & cultures 🎭  
+Tourly is a **modern travel agency website** that brings your dream trips to life 🌍💼.  
+From exploring breathtaking destinations to hassle-free bookings, it’s built for **wanderlust souls** ❤️.
+
+---
+
+## 🎇 Features That Will Make You Pack Your Bags  
+
+- 🏖 **Curated Travel Packages** – From budget to luxury experiences  
+- 📝 **Interactive Booking Form** – Smooth trip planning ⛷️  
+- 🌆 **Destination Highlights** – Explore cities, beaches, mountains & cultures 🎭  
 - 📸 **Stunning Image Gallery** – Get inspired visually 🖼️  
-- 📱 **Fully Responsive Design** – Perfect on all devices 📲  
+- 📱 **Responsive Design** – Works perfectly on any device  
 
 ---
 
 ## 🎨 Design & UX – Travel With Style  
 
-- 🎯 Minimalist yet eye-catching design  
-- 🎨 Smooth transitions & animations  
-- 🖌️ Vibrant colors + clean typography  
-- 📱 Mobile-first for maximum accessibility  
+- 🎯 Minimalist yet elegant interface  
+- 🎨 Smooth animations & transitions  
+- 🖌️ Vibrant colors with clean typography  
+- 📱 Mobile-first approach for global accessibility  
 
 ---
 
@@ -44,22 +50,22 @@ Tourly is a **modern travel agency website** that turns your dream trips into re
 ## 📸 Screenshots – A Visual Journey 🌈  
 
 ✨ **Homepage**  
-![s1](Screenshots/s1.png)  
+![Homepage](https://raw.githubusercontent.com/adityakumardubey11/Tourly---Travel-Agency/main/Screenshots/s1.png)  
 
 🏖️ **Popular Destination**  
-![s2](Screenshots/s2.png)  
+![Popular Destination](https://raw.githubusercontent.com/adityakumardubey11/Tourly---Travel-Agency/main/Screenshots/s2.png) 
 
 🎁 **Our Packages**  
-![s3](Screenshots/s3.png)  
+![Our Packages](https://raw.githubusercontent.com/adityakumardubey11/Tourly---Travel-Agency/main/Screenshots/s3.png)
 
 🌌 **Destinations Showcase**  
-![s4](Screenshots/s4.png)  
+![Destinations Showcase](https://raw.githubusercontent.com/adityakumardubey11/Tourly---Travel-Agency/main/Screenshots/s4.png)
 
 🚙 **Image Gallery**  
-![s5](Screenshots/s5.png)  
+![Image Gallery](https://raw.githubusercontent.com/adityakumardubey11/Tourly---Travel-Agency/main/Screenshots/s5.png)
 
 👥 **Responsive Layout**  
-![s6](Screenshots/s6.png)  
+![Responsive Layout](https://raw.githubusercontent.com/adityakumardubey11/Tourly---Travel-Agency/main/Screenshots/s6.png) 
 
 ---
 
@@ -72,10 +78,8 @@ git clone https://github.com/adityakumardubey11/Tourly---Travel-Agency.git
 # Navigate to project folder
 cd Tourly---Travel-Agency
 
-# Open index.html in your favorite browser 🌍
-````
+# Open index.html in your browser 🌍
 
----
 
 ## ❤️ Final Note
 
@@ -84,5 +88,3 @@ If you love **exploring the world**, you’ll love **Tourly**.
 
 ⭐ Don’t forget to **Star** this repo if you like it!
 
-```
-```
