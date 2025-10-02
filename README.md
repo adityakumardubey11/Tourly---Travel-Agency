@@ -50,22 +50,22 @@ From exploring breathtaking destinations to hassle-free bookings, it’s built f
 ## 📸 Screenshots – A Visual Journey 🌈  
 
 ✨ **Homepage**  
-![Homepage](https://raw.githubusercontent.com/adityakumardubey11/Tourly---Travel-Agency/main/Screenshots/s1.png)  
+![Homepage](./Screenshots/s1.png)  
 
 🏖️ **Popular Destination**  
-![Popular Destination](https://raw.githubusercontent.com/adityakumardubey11/Tourly---Travel-Agency/main/Screenshots/s2.png) 
+![Popular Destination](./Screenshots/s2.png) 
 
 🎁 **Our Packages**  
-![Our Packages](https://raw.githubusercontent.com/adityakumardubey11/Tourly---Travel-Agency/main/Screenshots/s3.png)
+![Our Packages](./Screenshots/s3.png)
 
 🌌 **Destinations Showcase**  
-![Destinations Showcase](https://raw.githubusercontent.com/adityakumardubey11/Tourly---Travel-Agency/main/Screenshots/s4.png)
+![Destinations Showcase](./Screenshots/s.4png)
 
 🚙 **Image Gallery**  
-![Image Gallery](https://raw.githubusercontent.com/adityakumardubey11/Tourly---Travel-Agency/main/Screenshots/s5.png)
+![Image Gallery](./Screenshots/s5.png)
 
-👥 **Responsive Layout**  
-![Responsive Layout](https://raw.githubusercontent.com/adityakumardubey11/Tourly---Travel-Agency/main/Screenshots/s6.png) 
+👥 **Contact Us**  
+![Responsive Layout](./Screenshots/s6.png) 
 
 ---
 
@@ -80,8 +80,7 @@ cd Tourly---Travel-Agency
 
 # Open index.html in your browser 🌍
 
-
-## ❤️ Final Note
+❤️ Final Note
 
 💖 Made with `❤️` By Aditya Dubey ✈️🌏
 If you love **exploring the world**, you’ll love **Tourly**.
