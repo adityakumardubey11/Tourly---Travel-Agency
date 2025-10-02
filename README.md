@@ -58,11 +58,11 @@ From exploring breathtaking destinations to hassle-free bookings, it’s built f
 🎁 **Our Packages**  
 ![Our Packages](./Screenshots/s3.png)
 
-🌌 **Destinations Showcase**  
-![Destinations Showcase](./Screenshots/s.4png)
-
 🚙 **Image Gallery**  
-![Image Gallery](./Screenshots/s5.png)
+![Image Gallery](./Screenshots/s4.png)
+
+🎆 **Our Sponsors**  
+![Our Sponsors](./Screenshots/s5.png)
 
 👥 **Contact Us**  
 ![Responsive Layout](./Screenshots/s6.png) 
