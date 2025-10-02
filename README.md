@@ -1,77 +1,61 @@
-🌴 Tourly – Explore the World with Ease 🌎
+# 🌴 Tourly – Explore the World with Ease 🌎
 
-🌐 Live Demo  | 💻 GitHub Repository
+[🌐 Live Demo](https://jocular-bubblegum-86dd0a.netlify.app/) | [💻 GitHub Repository](https://github.com/adityakumardubey11/Tourly---Travel-Agency)
 
-“Travel is the only thing you buy that makes you richer.”
+*"Travel is the only thing you buy that makes you richer."*
 
-Tourly is a modern travel agency website that makes planning your dream trip effortless. Explore destinations, book trips, and enjoy a seamless user experience with beautiful UI and interactive features.
+Tourly is a **modern travel agency website** that makes planning your dream trip effortless. Explore destinations, book trips, and enjoy a seamless user experience with beautiful UI and interactive features.  
 
-✨ Features
+---
 
-🏖 Curated Travel Packages – Packages for every taste and budget
+## ✨ Features
 
-📝 Interactive Booking Form – Plan trips easily
+- 🏖 **Curated Travel Packages** – Packages for every taste and budget  
+- 📝 **Interactive Booking Form** – Plan trips easily  
+- 🌆 **Destination Highlights** – Explore cities, beaches, mountains, and cultural spots  
+- 📸 **Stunning Image Gallery** – Visual inspiration for your next adventure  
+- 📱 **Fully Responsive Design** – Works perfectly on desktop, tablet, and mobile  
 
-🌆 Destination Highlights – Explore cities, beaches, mountains, and cultural spots
+---
 
-📸 Stunning Image Gallery – Visual inspiration for your next adventure
+## 🎨 Design & UX
 
-📱 Fully Responsive Design – Works perfectly on desktop, tablet, and mobile
+- Minimalist and elegant layout  
+- Smooth navigation and transitions  
+- Eye-catching colors and typography  
+- Mobile-first design approach for seamless responsiveness  
 
-🎨 Design & UX
+---
 
-Minimalist and elegant layout
+## 🛠️ Technologies Used
 
-Smooth navigation and transitions
+| Technology | Description |  
+|------------|-------------|  
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) **HTML5** | Semantic structure for accessible content |  
+| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) **CSS3** | Styling and responsive layouts |  
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) **JavaScript** | Adds interactivity and dynamic content |  
+| ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white) **Bootstrap** | Frontend framework for responsive design |  
+| ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white) **Netlify** | Fast hosting and deployment |  
 
-Eye-catching colors and typography
+---
 
-Mobile-first design approach for seamless responsiveness
+## 📸 Screenshots
 
-🛠️ Technologies Used
-Technology	Description
+**Homepage**  
+![Homepage](https://jocular-bubblegum-86dd0a.netlify.app/screenshot-homepage.png)  
 
-HTML5	Semantic structure for accessible content
+**Booking Form**  
+![Booking Form](https://jocular-bubblegum-86dd0a.netlify.app/screenshot-booking-form.png)  
 
-CSS3	Styling and responsive layouts
+---
 
-JavaScript	Adds interactivity and dynamic content
+## 🚀 How to Run Locally
 
-Bootstrap	Frontend framework for responsive design
+1. **Clone the repository**  
 
-Netlify	Fast hosting and deployment
-
-💡 Tip: Hover over the badges for a colorful, interactive look in GitHub.
-
-🚀 How to Run Locally
-
-Clone the repository
-
+```bash
 git clone https://github.com/adityakumardubey11/Tourly---Travel-Agency.git
 cd Tourly---Travel-Agency
-
-
-Open in Browser
-
-Open index.html to view the website locally.
-
-Deploy to Netlify
-
-Push your repo to GitHub
-
-Login to Netlify
-
-Click "New site from Git" → Connect repo → Deploy
-
-🎯 Future Enhancements
-
-✈️ User login & account management
-
-🌍 Real-time flight & hotel API integration
-
-🛒 Payment gateway integration for bookings
-
-🗺 Personalized recommendations based on user preferences
 
 
 💖 Made with ❤️ for travel enthusiasts
