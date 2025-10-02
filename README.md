@@ -10,7 +10,7 @@ Tourly is a **modern travel agency website** that turns your dream trips into re
 
 ---
 
-## 🎇✨ Features That Will Make You Pack Your Bags
+## 🎇✨ Features That Will Make You Pack Your Bags  
 
 - 🏖 **Curated Travel Packages** – From budget to luxury 🌆  
 - 📝 **Interactive Booking Form** – Hassle-free trip planning ⛷️  
@@ -79,7 +79,7 @@ cd Tourly---Travel-Agency
 
 ## ❤️ Final Note
 
-💖 Made with `❤️` by Aditya Dubey ✈️🌏
+💖 Made with `❤️` By Aditya Dubey ✈️🌏
 If you love **exploring the world**, you’ll love **Tourly**.
 
 ⭐ Don’t forget to **Star** this repo if you like it!
